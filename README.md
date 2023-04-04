@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brett-james-rocketlab
-- 🌱 I’m currently learning Deno
+- 🌱 I’m currently learning Deno and Appium
 - 🔭 Current hobby time: Designing and building 3D printers, Hackerspace outreach
 
 <!---
